@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: BiCジャパン ペン
+  price: 500
+  note: 油性ボールペンとタッチペンを1本にした便利な筆記具
+
+two:
+  item: コクヨ キャンパスノート
+  price: 300
+  note: 美しくまとまるキャンパスノートドット
+
+three:
+  item: コクヨ 定規
+  price: 140
+  note: レーザー技術を用いた目盛の加工により、見やすく正確な縮尺目盛りとなりました
+
+four:
+  item: ゼブラ サラサクリップ0.5 赤
+  price: 170
+  note: 耐水性、耐光性に優れたゲルインクボールペン
+
+five:
+  item: サントリー 天然水
+  price: 1980
+  note: おいしい天然水です
+
+six:
+  item: カゴメ トマトジュース
+  price: 540
+  note: リコピンをはじめ、ビタミン、ミネラルなどトマトの各種成分がバランスよく含まれています
